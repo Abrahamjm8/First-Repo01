@@ -38,12 +38,20 @@ public class Loops {
         }
 
         // while loop is another way to loop through our code
-
+        //useful when there are an unknown times of iteration 
+        // or when you dont know when you are going to hit your end condition
         int x = 0;
         while (x <= 10) {
             System.out.println(x);
             x++;
         }
+
+        //do while loop, the logical statment is checked after the code executes
+        x = 0;
+        do {
+            System.out.println(x);
+        } while (x <= 10);
+        //useful when you need your code to run at least once
     }
       
 }
