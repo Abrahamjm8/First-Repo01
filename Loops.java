@@ -36,6 +36,14 @@ public class Loops {
                 System.out.println("this is an odd number");
             }
         }
+
+        // while loop is another way to loop through our code
+
+        int x = 0;
+        while (x <= 10) {
+            System.out.println(x);
+            x++;
+        }
     }
       
 }
