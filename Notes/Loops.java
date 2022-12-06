@@ -1,3 +1,4 @@
+package Notes;
 public class Loops {
     /*
      * Loops are another way of controlling flow. 

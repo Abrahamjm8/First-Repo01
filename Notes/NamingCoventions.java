@@ -1,3 +1,4 @@
+package Notes;
 public class NamingCoventions {
     /*
      * Java's standard naming convetions:

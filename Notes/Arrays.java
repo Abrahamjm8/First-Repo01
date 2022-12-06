@@ -1,3 +1,4 @@
+package Notes;
 public class Arrays {
     /*
      * Arrays are data structures in java used to hold other data.

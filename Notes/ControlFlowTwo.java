@@ -1,3 +1,4 @@
+package Notes;
 public class ControlFlowTwo {
     public static void main(String[] args) {
         int visa = 100;

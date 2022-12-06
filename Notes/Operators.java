@@ -1,3 +1,4 @@
+package Notes;
 public class Operators {
     /*In java you have multiple operators to use:
      * - Mathethematical operators

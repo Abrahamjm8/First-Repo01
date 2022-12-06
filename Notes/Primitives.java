@@ -1,3 +1,4 @@
+package Notes;
 public class Primitives {
     /*
      * Java represents the most basic data struvtures called primitives:
