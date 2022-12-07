@@ -25,3 +25,7 @@ Java is an Object Oriented Programming Language: this means that everthing is ti
 
 # Interfaces 
 If classes are blueprints for objects, Interfaces are more like conrtact agreements for classes. If a class "implements" an interface it is like an agreement has been made that the class will have to implement the features of the interface. Interfaces are also unique in that a class can implement multiple interfaces, whereas classes can only extend only one other class. 
+
+
+## Abstract Class vs Interface
+if you only need to share methods then use an interfaces: if you also need to share fields (vars) then use an abstract class 
